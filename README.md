@@ -1,4 +1,4 @@
-Assign Mentor and Student Task:-
+Assign Mentor and Student Task:
 
 Backend Readme file consists of all API endpoints and documentations. Please refer to it.
 
