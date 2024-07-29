@@ -10,7 +10,7 @@
     - Write API to show all students for a particular mentor
     - Write an API to show the previously assigned mentor for a particular student.
 
-Deployment link:
+Back-End Deployment link:
 
 https://node-projects-2.onrender.com
 
